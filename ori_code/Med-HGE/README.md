@@ -4,6 +4,8 @@
 ## Requirements
 * We use Conda python 3.7 and strongly recommend that you create a new environment: `conda create -n dhgn python=3.7`.
 * Run the following command: `pip install -r requirements.txt`.
+* Download datasets from CBLEU and TIANCHI platform for IMCS-21.
+
 ### * pytorch_geometric
 * We use [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) for GNN implementation.
 * Download `*.whl` files from https://pytorch-geometric.com/whl/torch-1.4.0.html
