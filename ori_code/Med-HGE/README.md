@@ -20,7 +20,7 @@ pip install torch-geometric==1.4.3
 
 ## From Scratch
 ### * preprocess
-(1) Preprocess dataset with DiseaseKG.
+(1) Preprocess dataset with DiseaseKG and entities tagged by bio-NER. 
 
 ```
 python imcs_medical.py
